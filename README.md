@@ -35,31 +35,31 @@ These are the last building blocks to build an awesome website. We made sure to 
 
 **UI Elements**
 
-![Bootstrap Template Pixel PRO - UI Elements](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-ui.png)
+![Bootstrap Template Pixel PRO - UI Elements.](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-ui.png)
 
 <br />
 
 **UI Components**
 
-![Bootstrap Template Pixel PRO - UI Components](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-dash-section.png)
+![Bootstrap Template Pixel PRO - UI Components.](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-dash-section.png)
 
 <br />
 
 **User Dashboard**
 
-![Bootstrap Template Pixel PRO - UI Components](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-dashboard.png)
+![Bootstrap Template Pixel PRO - User Dashboard.](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-dashboard.png)
 
 <br />
 
-**User Dashboard**
+**Contact Page**
 
-![Bootstrap Template Pixel PRO - UI Components](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-dashboard.png)
+![Bootstrap Template Pixel PRO - Contact Page.](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-contact.png)
 
 <br />
 
 **UI Testimonials**
 
-![Bootstrap Template Pixel PRO - UI Testimonials](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-testimonials.png)
+![Bootstrap Template Pixel PRO - UI Testimonials.](https://raw.githubusercontent.com/ui-themes/bootstrap-template-pixel-pro/master/media/bootstrap-template-pixel-pro-screen-testimonials.png)
 
 <br />
 
