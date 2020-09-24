@@ -1,6 +1,6 @@
-# [Bootstrap Template - Pixel PRO](https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit)
+# [Bootstrap Template](https://ui-themes.com/tag/bootstrap-template/) - [Pixel PRO](https://ui-themes.com/tag/pixel-design/)
 
-> Premium Bootstrap 5 UI Kit with user dashboard provided by **Themesberg**
+> Premium Bootstrap 5 UI Kit with user dashboard provided by **[Themesberg](https://appseed.us/agency/themesberg)**
 
 Pixel Pro is a premium Bootstrap 5 UI Kit without jQuery featuring over 1000 components, 50+ sections and 35 example pages including a fully fledged user dashboard.
 
@@ -64,4 +64,4 @@ These are the last building blocks to build an awesome website. We made sure to 
 <br />
 
 ---
-[Bootstrap Template - Pixel PRO](https://themesberg.com/product/ui-kit/pixel-pro-premium-bootstrap-5-ui-kit) provided by Themesberg
+[Bootstrap Template](https://ui-themes.com/tag/bootstrap-template/) - [Pixel PRO](https://ui-themes.com/tag/pixel-design/) provided by **[Themesberg](https://appseed.us/agency/themesberg)**
